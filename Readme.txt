@@ -7,8 +7,7 @@ Features:
 	Steganography
 	Watermarking
 
-
-How to:
+How to use:
 
 	Digital Signing: Upload a Document(pdf) and the signed document with public and private key(passphrase : pavan) are generated.
 	Key Generation:	Click Generate to Generate a Public and Private Key pair.
