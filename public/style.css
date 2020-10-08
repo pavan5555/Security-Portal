@@ -1,0 +1,81 @@
+html, body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: -11px;
+}
+
+.mainHeader{
+  text-align: center;
+  background-color: #2AABE4;
+  padding-top:0px;
+  height:75px;
+}
+
+.mainHeadercnt{
+padding-top:25px;
+color: white;
+font-family: 'Roboto', sans-serif
+}
+
+.sideNav{
+margin-top: 74px;  
+height: 100%;
+width: 200px;
+position: fixed;
+z-index: 1;
+top: 0;
+left:0;
+background-color: #33393D;
+overflow-x: hidden;
+}
+
+.sideNavlist{
+list-style: none;
+padding:0px;
+}
+
+.sideNavlist a {
+text-decoration: none;
+color: #c6c6c6;
+margin-left:10px;
+}
+
+.sideNavlistEle{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  }
+
+  .sideNavlistEle:hover{
+  box-shadow: inset 3px 0px 0px 0px #DDDDDD;
+  
+  }
+
+.activelink {
+  box-shadow: inset 3px 0px 0px 0px #DDDDDD;
+  }
+
+.maindivcntr{
+  margin-left: 223px;
+}
+
+.hclass{
+  text-align: center;
+}
+
+.keydisp{
+  margin-top: 10px; 
+  width: 500px; 
+  height: 100px;
+}
+
+.hclassbox{
+  box-shadow: grey 0 0 5px;
+  padding-bottom: 15px;
+}
+
+
+.perfmsgclass{
+  display: inline-block;
+  margin-top : 30px;
+  color:blueviolet;
+
+}
